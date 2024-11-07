@@ -1,1 +1,1 @@
-Start-Process "$env:USERPROFILE\Downloads\arquivo.exe"
+Start-Process "$env:USERPROFILE\Downloads\setup.exe"
