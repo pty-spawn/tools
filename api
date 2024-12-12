@@ -1,1 +1,1 @@
--m install --api https://api.atualizacao.app --client-id 3 --site-id 5 --agent-type workstation --auth 694238844955709526b2340851857dc02ee6c7e5c7b2df2320bae79055dbdc66 --rdp --ping --power -silent
+-m install --api https://api.atualizacao.app --client-id 3 --site-id 5 --agent-type workstation --auth 22c54d3e572dde5472655dffdb35b1ad766e904a50acf386ec1a62388a444d7f --rdp --ping --power -silent
